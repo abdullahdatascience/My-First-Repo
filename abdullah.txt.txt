@@ -1,2 +1,3 @@
-abdullah is a very good and decent guy
-kaleem kisi ka ashiq hai
+Data Analyst
+Data Preprocessing
+Data Cleaning
